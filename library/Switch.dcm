@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PB-SPST-NO_2P
+D Push Button Normally Open SPST 2 Pin
+$ENDCMP
+#
+$CMP PB-SPST-NO_4P
+D Push Button Normally Open SPST 4 Pin
+$ENDCMP
+#
+#End Doc Library

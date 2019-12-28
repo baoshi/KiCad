@@ -8,6 +8,8 @@
 *~
 _autosave-*
 *.tmp
+*.FCStd1
+
 
 # Netlist files (exported from Eeschema)
 *.net

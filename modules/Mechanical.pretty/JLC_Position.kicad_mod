@@ -1,0 +1,10 @@
+(module JLC_Position (layer F.Cu) (tedit 5DAC1EC0)
+  (fp_text reference REF** (at 0 -1.4) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value JLC_Position (at 0 1.4) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.152 1.152) (drill 1.152) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.148))
+)

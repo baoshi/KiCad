@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC126
+D Quad buffer 3-State outputs
+$ENDCMP
+#
+$CMP 74HC126
+D Quad buffer 3-State outputs
+$ENDCMP
+#
+$CMP 74xx126
+D Quad buffer 3-State outputs
+$ENDCMP
+#
+#End Doc Library

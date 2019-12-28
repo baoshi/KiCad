@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Generic Capacitor
+$ENDCMP
+#
+$CMP FB
+D Ferrite Bead
+$ENDCMP
+#
+$CMP L
+D Generic Inductor
+$ENDCMP
+#
+$CMP R
+D Generic Resistor
+$ENDCMP
+#
+$CMP RP4_SEP
+D Resistor Array Separated
+$ENDCMP
+#
+$CMP XTAL_2P
+D Cystal Oscillator 2P
+$ENDCMP
+#
+$CMP XTAL_4P
+D Cystal Oscillator 4P
+$ENDCMP
+#
+#End Doc Library
