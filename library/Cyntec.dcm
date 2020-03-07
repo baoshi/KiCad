@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MUN12AD01-SH
+D 1000mA, High Efficiency uPOL Module
+K buck smps
+$ENDCMP
+#
+#End Doc Library
