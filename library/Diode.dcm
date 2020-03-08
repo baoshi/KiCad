@@ -12,8 +12,12 @@ $CMP Schottky
 D Schottky Diode
 $ENDCMP
 #
-$CMP TVS
-D TVS Diode
+$CMP TVS-BI
+D Bi-directional TVS Diode
+$ENDCMP
+#
+$CMP TVS-UNI
+D Uni-directional TVS Diode
 $ENDCMP
 #
 $CMP Zener

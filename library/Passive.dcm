@@ -4,6 +4,10 @@ $CMP C
 D Generic Capacitor
 $ENDCMP
 #
+$CMP CPOL
+D Generic Polarized Capacitor
+$ENDCMP
+#
 $CMP FB
 D Ferrite Bead
 $ENDCMP
