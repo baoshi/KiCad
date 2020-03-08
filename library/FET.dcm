@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOS_N_GSD
+D N Channel MOSFET 1-G 2-S 3-D
+$ENDCMP
+#
+$CMP MOS_P_GSD
+D P Channel MOSFET 1-G 2-S 3-D
+$ENDCMP
+#
+#End Doc Library
