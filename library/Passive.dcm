@@ -4,7 +4,7 @@ $CMP C
 D Generic Capacitor
 $ENDCMP
 #
-$CMP CPOL
+$CMP CP
 D Generic Polarized Capacitor
 $ENDCMP
 #

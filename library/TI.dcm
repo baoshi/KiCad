@@ -10,4 +10,8 @@ D 16-Bit, 860SPS, 4-Ch Delta-Sigma ADC With PGA
 F http://www.ti.com/lit/ds/symlink/ads1115.pdf
 $ENDCMP
 #
+$CMP INA226
+D High-or Low-Side, Bi-Directional Current/Power Monitor
+$ENDCMP
+#
 #End Doc Library

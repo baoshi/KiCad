@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT809
+D Power Supply Supervisor /w Push-Pull output
+K supervisor
+$ENDCMP
+#
+#End Doc Library

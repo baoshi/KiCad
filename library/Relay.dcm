@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OMRON_G2RL-2
+D Omron relay, DPDT, 8A/250VAC, 8A/30VDC
+K relay
+$ENDCMP
+#
+$CMP TE_OJ-1xx
+D TE Miniature PCB Relay OJ/OJE
+K Miniature Single Pole Relay
+$ENDCMP
+#
+#End Doc Library

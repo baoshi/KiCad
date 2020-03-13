@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP STM1001
+D Power Supply Supervisor /w Open-Drain output
+K supervisor
+$ENDCMP
+#
 $CMP STM8S003F3P6
 D 16MHz, 8K Flash, 1k RAM, 128 EEPROM, USART, I2C, SPI, TSSOP20
 K STM8S Mainstream Value line 8-bit, 16MHz, 1k RAM, 128 EEPROM

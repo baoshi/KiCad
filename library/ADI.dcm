@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8629ARZ
+D Zero-drift, Rail-to-Rail Dual Opamp
+K dual opamp
+$ENDCMP
+#
+#End Doc Library

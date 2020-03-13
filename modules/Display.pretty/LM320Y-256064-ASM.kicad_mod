@@ -1,8 +1,9 @@
-(module LM320Y-256064 (layer F.Cu) (tedit 5E5C8C64)
+(module LM320Y-256064-ASM (layer F.Cu) (tedit 5E68F2CE)
+  (descr "LM320Y-256065 assembly")
   (fp_text reference REF** (at -50 -15.99) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left))
   )
-  (fp_text value LM320Y-256064 (at 45.75 -15.99) (layer F.Fab) hide
+  (fp_text value LM320Y-256064-ASM (at 45.75 -15.99) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 50.75 -14.99) (end 50.75 18.51) (layer F.CrtYd) (width 0.05))
