@@ -14,4 +14,8 @@ $CMP INA226
 D High-or Low-Side, Bi-Directional Current/Power Monitor
 $ENDCMP
 #
+$CMP REF3033
+D 3.3V 0.2% Voltage reference, 50ppm/C, 25mA output
+$ENDCMP
+#
 #End Doc Library
