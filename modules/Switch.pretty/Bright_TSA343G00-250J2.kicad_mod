@@ -1,6 +1,6 @@
-(module Bright_TSA343G00-250J2 (layer F.Cu) (tedit 5DA2AD3F)
+(module Bright_TSA343G00-250J2 (layer F.Cu) (tedit 5E6F45ED)
   (descr "Tactile switch 3x4mm")
-  (tags "TACT 3x4")
+  (tags "tact 3x4")
   (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
