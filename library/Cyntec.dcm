@@ -5,4 +5,9 @@ D 1000mA, High Efficiency uPOL Module
 K buck smps
 $ENDCMP
 #
+$CMP MUN12AD06-SM
+D 6A, High Efficiency uPOL Module
+F https://datasheet.lcsc.com/szlcsc/Cyntec-MUN12AD06-SM_C218788.pdf
+$ENDCMP
+#
 #End Doc Library
