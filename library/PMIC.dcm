@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IP2161
+D USB charger protocol controller
+$ENDCMP
+#
+$CMP IP6510
+D Type-C PD charger controller
+K pd
+F https://datasheet.lcsc.com/szlcsc/INJOINIC-IP6510_C192869.pdf
+$ENDCMP
+#
+#End Doc Library
