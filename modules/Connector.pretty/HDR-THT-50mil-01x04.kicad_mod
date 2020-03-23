@@ -1,4 +1,4 @@
-(module HDR-THT-50mil-01x04 (layer F.Cu) (tedit 5DA09898)
+(module HDR-THT-50mil-01x04 (layer F.Cu) (tedit 5E75CB5E)
   (descr "Pin Header 50mil spacing 1x4")
   (fp_text reference REF** (at 1.8 -1.6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -17,6 +17,7 @@
   (fp_line (start 4.495 -1.066) (end 4.495 1.066) (layer F.CrtYd) (width 0.05))
   (fp_line (start 4.495 1.066) (end -0.685 1.066) (layer F.CrtYd) (width 0.05))
   (fp_line (start -0.685 1.066) (end -0.685 -1.066) (layer F.CrtYd) (width 0.05))
+  (fp_poly (pts (xy -0.9 0) (xy -1.4 -0.4) (xy -1.4 0.4)) (layer F.SilkS) (width 0.1))
   (pad 1 thru_hole rect (at 0 0) (size 0.9 1.2) (drill 0.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 1.27 0) (size 0.9 1.2) (drill 0.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2.54 0) (size 0.9 1.2) (drill 0.5) (layers *.Cu *.Mask))
