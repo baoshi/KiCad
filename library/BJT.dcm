@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NPN
+D NPN Transistor
+$ENDCMP
+#
+$CMP NPN_BEC
+D NPN Transistor 1-B 2-E 3-C
+$ENDCMP
+#
+$CMP PNP
+D PNP Transistor
+$ENDCMP
+#
+$CMP PNP_BEC
+D PNP Transistor 1-B 2-E 3-C
+$ENDCMP
+#
+#End Doc Library
