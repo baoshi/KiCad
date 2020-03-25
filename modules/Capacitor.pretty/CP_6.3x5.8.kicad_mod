@@ -1,4 +1,4 @@
-(module CP_6.3x5.8 (layer F.Cu) (tedit 5E79D792)
+(module CP_6.3x5.8 (layer F.Cu) (tedit 5E7B2B5C)
   (descr "SMD capacitor, aluminum electrolytic, Panasonic D")
   (tags "capacitor electrolytic")
   (attr smd)
@@ -46,7 +46,7 @@
   (fp_line (start -3.6 -2.4) (end -3.6 -1) (layer F.CrtYd) (width 0.05))
   (pad 1 smd roundrect (at -2.7 0) (size 3.5 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.15625))
   (pad 2 smd roundrect (at 2.7 0) (size 3.5 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.15625))
-  (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.8.wrl
+  (model :KIUSR3DMOD:Capacitor.3dshapes/CP_6.3x5.8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
