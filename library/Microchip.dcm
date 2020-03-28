@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP1703
+D 250mA, 16V LDO in SOT89 package
+K ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22049f.pdf
+$ENDCMP
+#
 #End Doc Library
