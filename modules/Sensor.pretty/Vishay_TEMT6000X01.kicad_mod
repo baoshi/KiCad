@@ -1,8 +1,9 @@
-(module TEMT6000X01 (layer F.Cu) (tedit 5E6E3B9B)
+(module Vishay_TEMT6000X01 (layer F.Cu) (tedit 5E81DC29)
+  (attr smd)
   (fp_text reference REF** (at 0 -1.7) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value TEMT6000X01 (at 0 1.8) (layer F.Fab)
+  (fp_text value Vishay_TEMT6000X01 (at 0 1.8) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -2 -1) (end 2 -1) (layer F.Fab) (width 0.1))
@@ -23,7 +24,7 @@
   (pad E smd rect (at -1.775 -0.55) (size 1.1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad B smd rect (at -1.775 0.55) (size 1.1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad C smd rect (at 1.775 0) (size 1.1 1) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Sensor.3dshapes/TEMT6000X01.wrl
+  (model :KIUSR3DMOD:Sensor.3dshapes/Vishay_TEMT6000X01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

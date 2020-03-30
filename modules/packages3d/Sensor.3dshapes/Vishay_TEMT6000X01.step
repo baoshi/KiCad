@@ -2,9 +2,9 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
-  'D:/Proj/KiCad/modules/packages3d/Sensor.3dshapes\\TEMT6000X01.step',
-  '2020-03-15T22:27:05',('kicad StepUp'),('ksu MCAD'),
-  'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
+'D:/Workspace/KiCad/modules/packages3d/Sensor.3dshapes\\
+Vishay_TEMT6000X01.step','2020-03-30T19:46:25',('kicad StepUp'),(
+    'ksu MCAD'),'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;
 DATA;
@@ -16,7 +16,7 @@ DATA;
 #4 = PRODUCT_DEFINITION_SHAPE('','',#5);
 #5 = PRODUCT_DEFINITION('design','',#6,#9);
 #6 = PRODUCT_DEFINITION_FORMATION('','',#7);
-#7 = PRODUCT('TEMT6000X01','TEMT6000X01','',(#8));
+#7 = PRODUCT('Vishay_TEMT6000X01','Vishay_TEMT6000X01','',(#8));
 #8 = PRODUCT_CONTEXT('',#2,'mechanical');
 #9 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #10 = ADVANCED_BREP_SHAPE_REPRESENTATION('',(#11,#15),#723);

@@ -1,7 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TEMT6000X01
+$CMP Sensirion_SHT20
+D Temperature and humidity module
+K digital temperature humidity sensor
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHT20_Datasheet.pdf
+$ENDCMP
+#
+$CMP Vishay_TEMT6000X01
 D Ambient Light Sensor
+F https://www.vishay.com/docs/81579/temt6000.pdf
 $ENDCMP
 #
 #End Doc Library
