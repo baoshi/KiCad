@@ -34,6 +34,21 @@ X M 1 0 0 0 R 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Mechanical-NC
+#
+DEF Mechanical-NC M 0 40 N N 1 F N
+F0 "M" 0 100 40 H V C CNN
+F1 "Mechanical-NC" 0 0 40 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 50 0 1 0 N
+P 2 0 1 0 -50 0 0 -50 N
+P 2 0 1 0 0 -50 0 -50 N
+P 4 0 1 0 -50 0 50 0 0 50 0 -50 N
+ENDDRAW
+ENDDEF
+#
 # TP
 #
 DEF TP TP 0 40 N N 1 F N
