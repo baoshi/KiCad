@@ -1,4 +1,5 @@
-(module SOIC-8-1EP_4.9x3.9x1.27P (layer F.Cu) (tedit 5E77655D)
+(module SOIC-8-1EP_4.9x3.9x1.27P (layer F.Cu) (tedit 5E85A502)
+  (attr smd)
   (fp_text reference REF** (at -1.523619 -4.050876) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

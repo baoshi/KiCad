@@ -1,4 +1,5 @@
-(module WS2812B-Reverse (layer F.Cu) (tedit 597F3DB2)
+(module WS2812B-Reverse (layer F.Cu) (tedit 5E85A4E4)
+  (attr smd)
   (fp_text reference REF* (at 0 -4.25) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -62,7 +63,7 @@
   (pad 3 smd rect (at -1.65 3.4) (size 1.4 1.8) (layers B.Cu B.Mask))
   (pad 4 smd rect (at 1.65 3.4) (size 1.4 1.8) (layers B.Cu B.Mask))
   (model ${KIUSRMOD}/Z_Disp.3dshapes/WS2812B.wrl
-    (at (xyz 0 0 -0.07000000000000001))
+    (offset (xyz 0 0 -1.777999973297119))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )

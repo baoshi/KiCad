@@ -1,4 +1,4 @@
-(module SCREWTERM-2_3.5P (layer F.Cu) (tedit 5E6CEAB8)
+(module SCREWTERM-2_3.5P (layer F.Cu) (tedit 5E85A4A6)
   (descr "Screw Terminal 3.0mm pitch, Pheonix MKDS 1/2-3,5, METZ 31060102")
   (fp_text reference REF** (at 1.8 -4.4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))

@@ -1,4 +1,4 @@
-(module C_0402 (layer F.Cu) (tedit 5E79BA87)
+(module C_0402 (layer F.Cu) (tedit 5E85A463)
   (attr smd)
   (fp_text reference REF** (at 0 -1.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))

@@ -1,5 +1,6 @@
-(module Diodes_PowerDI3333-8 (layer F.Cu) (tedit 5E799C5B)
+(module Diodes_PowerDI3333-8 (layer F.Cu) (tedit 5E85A4F8)
   (descr "DIODES POWERDI3333-8 (Type UX)")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

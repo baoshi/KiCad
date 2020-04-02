@@ -1,5 +1,5 @@
-(module "Adafruit 0.96in 160x80 TFT Display:TFT_0.96IN_160X80" (layer F.Cu) (tedit 595346CA)
-  (attr smd)
+(module TFT_0.96IN_160X80 (layer F.Cu) (tedit 5E85A4DB)
+  (attr virtual)
   (fp_text reference Ref** (at 0 1) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

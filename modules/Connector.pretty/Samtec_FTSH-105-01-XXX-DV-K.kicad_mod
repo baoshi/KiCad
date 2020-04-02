@@ -1,6 +1,7 @@
-(module Samtec_FTSH-105-01-XXX-DV-K (layer F.Cu) (tedit 5E75CD43)
+(module Samtec_FTSH-105-01-XXX-DV-K (layer F.Cu) (tedit 5E85A4A0)
   (descr "Samtec .050\" Micro Terminal Strip")
   (tags samtec)
+  (attr smd)
   (fp_text reference REF** (at 0 0.4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

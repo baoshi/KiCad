@@ -1,5 +1,6 @@
-(module Diodes_DMP3013SFV (layer F.Cu) (tedit 5E799C88)
+(module Diodes_DMP3013SFV (layer F.Cu) (tedit 5E85A4F4)
   (descr "Diodes Diodes_DMP3013SFV")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

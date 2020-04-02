@@ -1,5 +1,6 @@
-(module CP_POSCAP_TQC-D2 (layer F.Cu) (tedit 5E79F6FD)
+(module CP_POSCAP_TQC-D2 (layer F.Cu) (tedit 5E85A45E)
   (descr "Panasonic POSCAP TQC series D2 size")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.9) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

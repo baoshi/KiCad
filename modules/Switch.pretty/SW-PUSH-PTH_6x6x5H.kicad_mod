@@ -1,4 +1,4 @@
-(module SW-PUSH-PTH_6x6x5H (layer F.Cu) (tedit 5E7375D4)
+(module SW-PUSH-PTH_6x6x5H (layer F.Cu) (tedit 5E85A58A)
   (descr "Tactile push button, PTH, 6x6mm, height=5mm")
   (tags "tact sw push 6mm")
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)

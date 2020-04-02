@@ -1,4 +1,4 @@
-(module XTAL_3225_4P (layer F.Cu) (tedit 5D9FE35A)
+(module XTAL_3225_4P (layer F.Cu) (tedit 5E85A4AB)
   (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))

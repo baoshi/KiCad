@@ -1,5 +1,6 @@
-(module HRO_U-A-24DS-Y-1 (layer F.Cu) (tedit 5E5CCBF7)
+(module HRO_U-A-24DS-Y-1 (layer F.Cu) (tedit 5E85A492)
   (descr "USB Type-A Receptacle 3.1A current rating")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

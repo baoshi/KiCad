@@ -1,5 +1,6 @@
-(module LM320Y-256064-ASM-LP (layer F.Cu) (tedit 5E68F28D)
+(module LM320Y-256064-ASM-LP (layer F.Cu) (tedit 5E85A4D6)
   (descr "LM320Y-256065 low profile assembly")
+  (attr virtual)
   (fp_text reference REF** (at -50 -15.99) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left))
   )

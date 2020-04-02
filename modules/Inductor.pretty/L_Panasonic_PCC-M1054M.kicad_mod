@@ -1,5 +1,6 @@
-(module L_Panasonic_PCC-M1054M (layer F.Cu) (tedit 5E79E043)
+(module L_Panasonic_PCC-M1054M (layer F.Cu) (tedit 5E85A533)
   (descr "Panasonic Inductor PCC-M1054M series, 10.7x10x5.4mm")
+  (attr smd)
   (fp_text reference REF** (at 0 -6.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
