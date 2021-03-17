@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP W25QxxJVZP
+D Serial Flash Memory, Standard/Dual/Quad SPI
+K flash memory SPI
+$ENDCMP
+#
 #End Doc Library
