@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AudioJack-TRSS-SwitchT
+D Audio Jack, T R 2S Switch on T
+F ~
+$ENDCMP
+#
 $CMP Header_01x02
 D Header, 2-pin
 F ~
@@ -14,6 +19,12 @@ $CMP Header_02x05
 D Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
 F ~
+$ENDCMP
+#
+$CMP Micro_SD_Card
+D Micro SD Card Socket
+K connector SD microsd
+F http://katalog.we-online.de/em/datasheet/693072010801.pdf
 $ENDCMP
 #
 $CMP USB_A_Receptacle_4P
