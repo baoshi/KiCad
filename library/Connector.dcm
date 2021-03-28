@@ -5,17 +5,22 @@ D Audio Jack, T R 2S Switch on T
 F ~
 $ENDCMP
 #
-$CMP Header_01x02
-D Header, 2-pin
+$CMP Conn_01x02
+D Connector, 2-pin
 F ~
 $ENDCMP
 #
-$CMP Header_01x04
-D Header, 4-pin
+$CMP Conn_01x04
+D Connector, 4-pin
 F ~
 $ENDCMP
 #
-$CMP Header_02x05
+$CMP Conn_01x20
+D Connector, 20-pin
+F ~
+$ENDCMP
+#
+$CMP Conn_02x05
 D Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
 F ~
