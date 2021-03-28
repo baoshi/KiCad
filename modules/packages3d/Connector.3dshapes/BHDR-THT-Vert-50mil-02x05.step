@@ -3,7 +3,7 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 'D:/Proj/KiCad/modules/packages3d/Connector.3dshapes\\
-BHDR-THT-Vert-50mil_02x05.step','2020-03-07T16:46:50',('kicad StepUp'),(
+BHDR-THT-Vert-50mil-02x05.step','2021-03-28T16:59:17',('kicad StepUp'),(
     'ksu MCAD'),'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;
@@ -16,7 +16,7 @@ DATA;
 #4 = PRODUCT_DEFINITION_SHAPE('','',#5);
 #5 = PRODUCT_DEFINITION('design','',#6,#9);
 #6 = PRODUCT_DEFINITION_FORMATION('','',#7);
-#7 = PRODUCT('BHDR-THT-Vert-50mil_02x05','BHDR-THT-Vert-50mil_02x05','',
+#7 = PRODUCT('BHDR-THT-Vert-50mil-02x05','BHDR-THT-Vert-50mil-02x05','',
   (#8));
 #8 = PRODUCT_CONTEXT('',#2,'mechanical');
 #9 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');

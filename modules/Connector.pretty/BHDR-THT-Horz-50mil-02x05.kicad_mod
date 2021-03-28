@@ -1,9 +1,9 @@
-(module BHDR-THT-Horz-50mil_02x05 (layer F.Cu) (tedit 5EC74197)
+(module BHDR-THT-Horz-50mil-02x05 (layer F.Cu) (tedit 606042FA)
   (descr "Box Header 50mil spacing 2x5 horizontal")
   (fp_text reference REF** (at 2.6 -8) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value BHDR-THT-Horz-50mil_02x05 (at 2.6 1.3335) (layer F.Fab) hide
+  (fp_text value BHDR-THT-Horz-50mil-02x05 (at 2.6 1.3335) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -3.7848 -1.981) (end 8.865 -1.981) (layer F.SilkS) (width 0.15))
@@ -32,7 +32,7 @@
   (pad 3 thru_hole oval (at 1.27 0) (size 0.9 0.9) (drill 0.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 -1.27) (size 0.9 0.9) (drill 0.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 0.9 0.9) (drill 0.5) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/BHDR-THT-Horz-50mil_02x05.wrl
+  (model :KIUSR3DMOD:Connector.3dshapes/BHDR-THT-Horz-50mil-02x05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
