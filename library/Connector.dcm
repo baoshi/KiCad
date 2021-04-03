@@ -10,6 +10,11 @@ D Connector, 2-pin
 F ~
 $ENDCMP
 #
+$CMP Conn_01x02_MP
+D Connector, 2-pin /w mounting pin
+F ~
+$ENDCMP
+#
 $CMP Conn_01x04
 D Connector, 4-pin
 F ~
