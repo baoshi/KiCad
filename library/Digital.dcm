@@ -8,6 +8,11 @@ $CMP 74HC126
 D Quad buffer 3-State outputs
 $ENDCMP
 #
+$CMP 74LVC2G00
+D Dual NAND Gate, Low-Voltage CMOS
+K Dual Gate NAND LVC CMOS
+$ENDCMP
+#
 $CMP 74xx126
 D Quad buffer 3-State outputs
 $ENDCMP
