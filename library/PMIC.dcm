@@ -10,4 +10,8 @@ K pd
 F https://datasheet.lcsc.com/szlcsc/INJOINIC-IP6510_C192869.pdf
 $ENDCMP
 #
+$CMP TP4057
+D 500mA Lithium Charger
+$ENDCMP
+#
 #End Doc Library
