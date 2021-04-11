@@ -20,6 +20,11 @@ D Connector, 4-pin
 F ~
 $ENDCMP
 #
+$CMP Conn_01x14
+D Connector, 14-pin
+F ~
+$ENDCMP
+#
 $CMP Conn_01x20
 D Connector, 20-pin
 F ~
