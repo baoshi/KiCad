@@ -39,7 +39,7 @@
   )
   (pad 1 smd rect (at -3.05435 0) (size 2.4003 2.8956) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.05435 0) (size 2.4003 2.8956) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Capacitor.3dshapes/CP_POSCAP_TQC-D2.wrl
+  (model ${KIUSR3DMOD}/Capacitor.3dshapes/CP_POSCAP_TQC-D2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -50,7 +50,7 @@
   (pad 14 smd roundrect (at 50.48 -4.84) (size 2.5 1.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 15 smd roundrect (at 44.98 -7.38) (size 2.5 1.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 16 smd roundrect (at 50.48 -7.38) (size 2.5 1.2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model :KIUSR3DMOD:Display.3dshapes/LM320Y-256064-ASM-LP.wrl
+  (model ${KIUSR3DMOD}/Display.3dshapes/LM320Y-256064-ASM-LP.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -51,7 +51,7 @@
   (pad 14 thru_hole oval (at 49 -4.84) (size 2 1.5) (drill 0.75) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 46.46 -7.38) (size 2 1.5) (drill 0.75) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 49 -7.38) (size 2 1.5) (drill 0.75) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Display.3dshapes/LM320Y-256064-ASM.wrl
+  (model ${KIUSR3DMOD}/Display.3dshapes/LM320Y-256064-ASM.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

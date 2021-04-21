@@ -36,7 +36,7 @@
          (xy -1.2 -0.75) (xy 1.2 -0.75) (xy 1.2 0.75) (xy -1 0.75) (xy -1.2 0.55)
 ) (width 0))
     ))
-  (model :KIUSR3DMOD:Sensor.3dshapes/Sensirion_SHT20.wrl
+  (model ${KIUSR3DMOD}/Sensor.3dshapes/Sensirion_SHT20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -17,7 +17,7 @@
   (fp_line (start -3.5 -0.5) (end -3.5 0.5) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 4 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Misc.3dshapes/Buzzer_9.2x4.8x4P.wrl
+  (model ${KIUSR3DMOD}/Misc.3dshapes/Buzzer_9.2x4.8x4P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

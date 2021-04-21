@@ -34,7 +34,7 @@
   (fp_line (start -1 0.6) (end -1 -0.6) (layer F.CrtYd) (width 0.1))
   (pad A smd rect (at 0.77 0 180) (size 0.93 0.98) (layers F.Cu F.Paste F.Mask))
   (pad K smd rect (at -0.77 0 180) (size 0.93 0.98) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Diode.3dshapes/D_LED_0603_Green.wrl
+  (model ${KIUSR3DMOD}/Diode.3dshapes/D_LED_0603_Green.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

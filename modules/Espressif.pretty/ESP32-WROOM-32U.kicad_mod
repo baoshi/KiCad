@@ -84,7 +84,7 @@
   (pad 39 smd rect (at -3.33 1.13 270) (size 1.33 1.33) (layers F.Cu F.Paste F.Mask))
   (pad 39 smd rect (at -1.5 1.13 270) (size 1.33 1.33) (layers F.Cu F.Paste F.Mask))
   (pad 39 smd rect (at 0.33 1.13 270) (size 1.33 1.33) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Espressif.3dshapes/ESP32-WROOM-32U.wrl
+  (model ${KIUSR3DMOD}/Espressif.3dshapes/ESP32-WROOM-32U.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

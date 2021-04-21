@@ -34,7 +34,7 @@
   )
   (pad 1 smd rect (at -4.95 0) (size 3.8 4.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.95 0) (size 3.8 4.8) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Inductor.3dshapes/PCC-M1054M.wrl
+  (model ${KIUSR3DMOD}/Inductor.3dshapes/PCC-M1054M.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

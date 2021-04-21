@@ -40,7 +40,7 @@
   (pad 6 smd roundrect (at 0.325 -2.15) (size 0.45 1.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 7 smd roundrect (at -0.325 -2.15) (size 0.45 1.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 8 smd roundrect (at -0.975 -2.15) (size 0.45 1.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model :KIUSR3DMOD:Standard_IC.3dshapes/TSSOP-8_3.0x3.0x0.65P.wrl
+  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/TSSOP-8_3.0x3.0x0.65P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

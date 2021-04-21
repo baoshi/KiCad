@@ -36,7 +36,7 @@
   (pad 8 thru_hole oval (at 3.81 -1.27) (size 0.9 0.9) (drill 0.5) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 5.08 0) (size 0.9 0.9) (drill 0.5) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 5.08 -1.27) (size 0.9 0.9) (drill 0.5) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/BOXHDR-THT-Vert-50mil-02x05.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/BOXHDR-THT-Vert-50mil-02x05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

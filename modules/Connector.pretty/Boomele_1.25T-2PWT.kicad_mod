@@ -28,7 +28,7 @@
   (pad 2 smd rect (at 0.625 -1.4) (size 0.5 1.6) (layers F.Cu F.Paste F.Mask))
   (pad M smd rect (at 3.175 1.5) (size 2.1 3) (layers F.Cu F.Paste F.Mask))
   (pad M smd rect (at -3.175 1.5) (size 2.1 3) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/Boomele_1.25T-2PWT.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/Boomele_1.25T-2PWT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -93,7 +93,7 @@
   (pad 63 smd roundrect (at 1.05 -1.05) (size 0.8 0.8) (layers F.Paste) (roundrect_rratio 0.25))
   (pad 64 smd roundrect (at 1.05 1.05) (size 0.8 0.8) (layers F.Paste) (roundrect_rratio 0.25))
   (pad 65 smd roundrect (at -1.05 1.05) (size 0.8 0.8) (layers F.Paste) (roundrect_rratio 0.25))
-  (model :KIUSR3DMOD:RPi.3dshapes/RP2040.wrl
+  (model ${KIUSR3DMOD}/RPi.3dshapes/RP2040.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

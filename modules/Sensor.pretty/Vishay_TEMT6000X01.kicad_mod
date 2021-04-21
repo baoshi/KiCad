@@ -24,7 +24,7 @@
   (pad E smd rect (at -1.775 -0.55) (size 1.1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad B smd rect (at -1.775 0.55) (size 1.1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad C smd rect (at 1.775 0) (size 1.1 1) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Sensor.3dshapes/Vishay_TEMT6000X01.wrl
+  (model ${KIUSR3DMOD}/Sensor.3dshapes/Vishay_TEMT6000X01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

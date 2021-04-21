@@ -19,7 +19,7 @@
   (pad 2 thru_hole oval (at 1.27 0) (size 0.9 1.2) (drill 0.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2.54 0) (size 0.9 1.2) (drill 0.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 3.81 0) (size 0.9 1.2) (drill 0.5) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/PINHDR-THT-50mil-01x04.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/PINHDR-THT-50mil-01x04.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

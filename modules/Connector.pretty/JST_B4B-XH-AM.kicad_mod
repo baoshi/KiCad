@@ -49,7 +49,7 @@
   (pad 3 thru_hole oval (at 5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 7.5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -1.6 2) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/JST_B4B-XH-A.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/JST_B4B-XH-A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

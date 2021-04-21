@@ -41,7 +41,7 @@
   (pad 4 smd roundrect (at 3 -2.85) (size 1 3.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad MP smd roundrect (at -5.35 2.9) (size 1.5 3.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.166667))
   (pad MP smd roundrect (at 5.35 2.9) (size 1.5 3.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.166667))
-  (model :KIUSR3DMOD:Connector.3dshapes/JST_S4B-PH-SM4-TB.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/JST_S4B-PH-SM4-TB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

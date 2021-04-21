@@ -35,7 +35,7 @@
   (fp_line (start -2.5 0.6) (end -2.1 1) (layer F.SilkS) (width 0.15))
   (pad A smd rect (at 1.64 0 180) (size 1.25 1) (layers F.Cu F.Paste F.Mask))
   (pad K smd rect (at -1.64 0 180) (size 1.25 1) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Diode.3dshapes/D_SOD-123.wrl
+  (model ${KIUSR3DMOD}/Diode.3dshapes/D_SOD-123.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

@@ -51,7 +51,7 @@
   (pad 6 thru_hole circle (at 5.08 -2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 7.62 -2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 10.16 -2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/BOXHDR-THT-Horz-100mil-02x05.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/BOXHDR-THT-Horz-100mil-02x05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

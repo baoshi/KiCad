@@ -19,7 +19,7 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:ThroughHole.3dshapes/R_Axial_Vert_9x3.3x2.54P.wrl
+  (model ${KIUSR3DMOD}/ThroughHole.3dshapes/R_Axial_Vert_9x3.3x2.54P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

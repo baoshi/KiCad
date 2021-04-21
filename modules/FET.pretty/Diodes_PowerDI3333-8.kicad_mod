@@ -37,7 +37,7 @@
   (pad 7 smd rect (at -0.325 -1.58) (size 0.42 0.54) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.975 -1.58) (size 0.42 0.54) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0 -0.455) (size 2.37 1.71) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:FET.3dshapes/Diodes_PowerDI3333-8.wrl
+  (model ${KIUSR3DMOD}/FET.3dshapes/Diodes_PowerDI3333-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

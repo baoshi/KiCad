@@ -40,7 +40,7 @@
   (pad 6 smd oval (at 0.325 -2.2 270) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd oval (at -0.325 -2.2 270) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd oval (at -0.975 -2.2 270) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Standard_IC.3dshapes/VSSOP-8_3x3x0.65P.wrl
+  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/VSSOP-8_3x3x0.65P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

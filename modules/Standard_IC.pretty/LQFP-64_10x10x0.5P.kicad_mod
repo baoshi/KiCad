@@ -104,7 +104,7 @@
   (pad 62 smd oval (at -5.55 2.75 90) (size 0.28 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 63 smd oval (at -5.55 3.25 90) (size 0.28 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 64 smd oval (at -5.55 3.75 90) (size 0.28 1.8) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Standard_IC.3dshapes/LQFP-64_10x10x0.5P.wrl
+  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/LQFP-64_10x10x0.5P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

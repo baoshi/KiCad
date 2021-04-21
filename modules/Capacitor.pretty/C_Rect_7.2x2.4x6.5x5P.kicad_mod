@@ -24,7 +24,7 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Capacitor.3dshapes/C_Rect_7.2x2.4x6.5x5P.wrl
+  (model ${KIUSR3DMOD}/Capacitor.3dshapes/C_Rect_7.2x2.4x6.5x5P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

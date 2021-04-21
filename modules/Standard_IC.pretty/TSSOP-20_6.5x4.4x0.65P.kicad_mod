@@ -52,7 +52,7 @@
   (pad 18 smd oval (at -1.625 -2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd oval (at -2.275 -2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd oval (at -2.925 -2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Standard_IC.3dshapes/TSSOP-20_6.5x4.4x0.65P.wrl
+  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/TSSOP-20_6.5x4.4x0.65P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

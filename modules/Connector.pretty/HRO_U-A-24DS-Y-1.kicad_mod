@@ -23,7 +23,7 @@
   (pad 4 smd rect (at 3.5 -1.15) (size 2 3) (layers F.Cu F.Paste F.Mask))
   (pad S thru_hole oval (at -6.45 7.5) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask))
   (pad S thru_hole oval (at 6.45 7.5) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Connector.3dshapes/HRO_U-A-24DS-Y-1.wrl
+  (model ${KIUSR3DMOD}/Connector.3dshapes/HRO_U-A-24DS-Y-1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -18,7 +18,7 @@
   (fp_line (start 0.6 1) (end -0.6 1) (layer F.Fab) (width 0.1))
   (fp_line (start -0.6 1) (end -0.6 -1) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at 0 0) (size 1.45 2.2) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Misc.3dshapes/TE_RCT0805.wrl
+  (model ${KIUSR3DMOD}/Misc.3dshapes/TE_RCT0805.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

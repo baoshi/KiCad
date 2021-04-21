@@ -27,7 +27,7 @@
   (pad M smd rect (at 3.6 -3 315) (size 1.8 1) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -1.9 -1) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 1.9 -1) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
-  (model :KIUSR3DMOD:Switch.3dshapes/XKB_TM-2024A.wrl
+  (model ${KIUSR3DMOD}/Switch.3dshapes/XKB_TM-2024A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

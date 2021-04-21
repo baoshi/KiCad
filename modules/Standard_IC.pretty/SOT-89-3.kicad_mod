@@ -33,7 +33,7 @@
   (pad 2 smd oval (at 1.7 0 270) (size 0.7 2.1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd oval (at -0.7 0 270) (size 2 3.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd oval (at 1.8 -1.5 270) (size 0.7 1.9) (layers F.Cu F.Paste F.Mask))
-  (model :KIUSR3DMOD:Standard_IC.3dshapes/SOT-89-3.wrl
+  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/SOT-89-3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

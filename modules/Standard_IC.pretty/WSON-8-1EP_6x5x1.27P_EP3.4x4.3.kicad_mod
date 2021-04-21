@@ -34,7 +34,7 @@
   (pad "" smd roundrect (at 1.075 0.85 90) (size 1.37 1.73) (layers F.Paste) (roundrect_rratio 0.182482))
   (pad "" smd roundrect (at -1.075 -0.85 90) (size 1.37 1.73) (layers F.Paste) (roundrect_rratio 0.182482))
   (pad "" smd roundrect (at 1.075 -0.85 90) (size 1.37 1.73) (layers F.Paste) (roundrect_rratio 0.182482))
-  (model :KIUSR3DMOD:Standard_IC.3dshapes/WSON-8-1EP_6x5x1.27P_EP3.4x4.3.wrl
+  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/WSON-8-1EP_6x5x1.27P_EP3.4x4.3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
