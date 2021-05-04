@@ -3,7 +3,7 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 'D:/Proj/KiCad/modules/packages3d/Display.3dshapes\\
-IPS_ZJY133T-IG01.step','2021-04-03T22:26:31',('kicad StepUp'),(
+IPS_ZJY133T-IG01.step','2021-04-25T13:13:37',('kicad StepUp'),(
     'ksu MCAD'),'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;
