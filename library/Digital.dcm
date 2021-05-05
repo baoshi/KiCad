@@ -13,6 +13,11 @@ D Dual NAND Gate, Low-Voltage CMOS
 K Dual Gate NAND LVC CMOS
 $ENDCMP
 #
+$CMP 74LVC2G07
+D Dual Buffer and Driver with OD Outputs
+K Dual Buffer OD LVC CMOS
+$ENDCMP
+#
 $CMP 74xx126
 D Quad buffer 3-State outputs
 $ENDCMP
