@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP AudioJack-TRSS-SwitchT
-D Audio Jack, T R 2S Switch on T
+$CMP AudioJack-TRS-SwitchTS
+D Audio Jack, T R 2S Switch on T S
 F ~
 $ENDCMP
 #
@@ -17,6 +17,11 @@ $ENDCMP
 #
 $CMP Conn_01x04
 D Connector, 4-pin
+F ~
+$ENDCMP
+#
+$CMP Conn_01x05
+D Connector, 5-pin
 F ~
 $ENDCMP
 #
