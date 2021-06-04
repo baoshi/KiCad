@@ -30,6 +30,11 @@ D Connector, 6-pin
 F ~
 $ENDCMP
 #
+$CMP Conn_01x07
+D Connector, 7-pin
+F ~
+$ENDCMP
+#
 $CMP Conn_01x14
 D Connector, 14-pin
 F ~
@@ -41,7 +46,13 @@ F ~
 $ENDCMP
 #
 $CMP Conn_02x05
-D Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+D Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_02x10
+D Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)
 K connector
 F ~
 $ENDCMP
