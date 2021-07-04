@@ -34,6 +34,37 @@ X ~ 2 -50 -50 47 R 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Jumper-NC
+#
+DEF Jumper-NC JP 0 40 N N 1 F N
+F0 "JP" 0 60 40 H V C CNN
+F1 "Jumper-NC" 0 -50 40 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 -30 57 450 1350 0 1 0 N 40 10 -40 10
+C -40 0 10 0 1 0 N
+C 40 0 10 0 1 0 N
+X ~ 1 -100 0 50 R 50 50 1 1 U
+X ~ 2 100 0 50 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# Jumper-NO
+#
+DEF Jumper-NO JP 0 40 N N 1 F N
+F0 "JP" 0 60 40 H V C CNN
+F1 "Jumper-NO" 0 -50 40 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -40 0 10 0 1 0 N
+C 40 0 10 0 1 0 N
+X ~ 1 -100 0 50 R 50 50 1 1 U
+X ~ 2 100 0 50 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
 # Mechanical
 #
 DEF Mechanical M 0 40 N N 1 F N
