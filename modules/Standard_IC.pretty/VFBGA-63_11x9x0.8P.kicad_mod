@@ -1,6 +1,6 @@
 (footprint "VFBGA-63_11x9x0.8P" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61C9B441)
+  (tedit 61DAB58C)
   (attr smd)
   (fp_text reference "REF**" (at 0 -7) (layer "F.SilkS")
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -91,4 +91,9 @@
   (pad "M2" smd circle (at -2.8 4.4) (size 0.42 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b994142f-02ac-4881-9587-6d3df53c96d2))
   (pad "M9" smd circle (at 2.8 4.4) (size 0.42 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f144a97d-c3f0-423f-b0a9-3f7dbc42478b))
   (pad "M10" smd circle (at 3.6 4.4) (size 0.42 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 71c77456-1405-42e3-95ed-69e629de0558))
+  (model "${KIUSR3DMOD}/Standard_IC.3dshapes/VFBGA-63_11x9x0.8P.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
