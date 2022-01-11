@@ -1,6 +1,6 @@
 (footprint "HIR_DF17(2.0)-20DP-0.5V(57)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61DD6340)
+  (tedit 61DD7EAF)
   (attr smd)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -54,8 +54,8 @@
   (pad "18" smd rect (at 1.749999 2.6) (size 0.2794 1.1938) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2bef89de-08c7-4a13-9d85-67948d429ca0))
   (pad "19" smd rect (at 2.250001 -2.6) (size 0.2794 1.1938) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6ca3c38c-4e71-4202-b6c1-1b25f04a27ae))
   (pad "20" smd rect (at 2.250001 2.6) (size 0.2794 1.1938) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 483f60da-14d7-4f88-8d01-3f9f30784c70))
-  (pad "21" smd rect (at -4.499999 0) (size 1.397 2.2098) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb03d859-dcc9-4533-b352-64830e0e5423))
-  (pad "22" smd rect (at 4.499999 0) (size 1.397 2.2098) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37e4dc66-4492-4061-908d-7213940a2ec3))
+  (pad "MP" smd rect (at 4.499999 0) (size 1.397 2.2098) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37e4dc66-4492-4061-908d-7213940a2ec3))
+  (pad "MP" smd rect (at -4.499999 0) (size 1.397 2.2098) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb03d859-dcc9-4533-b352-64830e0e5423))
   (model "${KIUSR3DMOD}/Connector.3dshapes/HIR_DF17(2.0)-20DP-0.5V(57).wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
