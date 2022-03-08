@@ -1,6 +1,6 @@
 (footprint "VFBGA-63_11x9x0.8P" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61DAB58C)
+  (tedit 61E0E6BF)
   (attr smd)
   (fp_text reference "REF**" (at 0 -7) (layer "F.SilkS")
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -19,8 +19,8 @@
   (fp_line (start -5.4 -6.4) (end 5.4 -6.4) (layer "F.CrtYd") (width 0.05) (tstamp 909b030b-fa1a-4fe8-b1ee-422b4d9e23cf))
   (fp_line (start 5.4 -6.4) (end 5.4 6.4) (layer "F.CrtYd") (width 0.05) (tstamp 936e2ca6-11ae-4f42-9128-52bb329f3d21))
   (fp_line (start 5.4 6.4) (end -5.4 6.4) (layer "F.CrtYd") (width 0.05) (tstamp ebadd2a5-21ab-4a7e-b5bc-6f737367e560))
-  (fp_line (start 4.5 5.5) (end -4.5 5.5) (layer "F.Fab") (width 0.127) (tstamp 213a2af1-412b-47f4-ab3b-c5f43b6be7a6))
-  (fp_line (start 4.5 -5.5) (end 4.5 5.5) (layer "F.Fab") (width 0.127) (tstamp 7f3eb118-a20c-4239-b800-c9211c66847d))
+  (fp_line (start 4.5 5.5) (end -4.5 5.5) (layer "F.Fab") (width 0.1) (tstamp 213a2af1-412b-47f4-ab3b-c5f43b6be7a6))
+  (fp_line (start 4.5 -5.5) (end 4.5 5.5) (layer "F.Fab") (width 0.1) (tstamp 7f3eb118-a20c-4239-b800-c9211c66847d))
   (fp_line (start -4.5 5.5) (end -4.5 -5.5) (layer "F.Fab") (width 0.1) (tstamp d2de4093-1fc2-4bc1-94b6-4d0fe3426c6f))
   (fp_line (start -4.5 -5.5) (end 4.5 -5.5) (layer "F.Fab") (width 0.1) (tstamp e47adf3d-9c24-4345-80c9-66679cad107e))
   (fp_poly (pts
