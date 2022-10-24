@@ -122,7 +122,7 @@
     (property "Value" "PRTR5V0U2X" (id 1) (at 0 -6.35 0)
       (effects (font (size 1.016 1.016)))
     )
-    (property "Footprint" "BZ_Generic:SOT-143" (id 2) (at 1.27 -1.27 0)
+    (property "Footprint" "" (id 2) (at 1.27 -1.27 0)
       (effects (font (size 1.016 1.016)) hide)
     )
     (property "Datasheet" "" (id 3) (at 1.27 -1.27 0)
