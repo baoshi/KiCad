@@ -3,7 +3,7 @@
   (tags "esp32-s3")
   (attr smd)
   (fp_text reference "REF**" (at 0 -17.05) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6a494ce2-3e36-47fb-b812-2b7bd4826e62)
   )
   (fp_text value "ESP32-S3-WROOM-1" (at 0 12) (layer "F.Fab")
@@ -101,7 +101,7 @@
   (pad "41" smd rect (at -0.1 -1.94 180) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 325964ac-707a-4db9-9457-88ae8b311329))
   (pad "41" smd rect (at -0.1 -0.54 180) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8d57aefc-46be-46ca-9783-caa0625b0b06))
   (pad "41" smd rect (at -0.1 0.86 180) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp af66518f-af54-48c0-b506-27977596c4f8))
-  (model "${KIUSR3DMOD}/Espressif.3dshapes/ESP32-S3-WROOM-1.step"
+  (model "${KIUSR_3DMODEL_DIR/Espressif.3dshapes/ESP32-S3-WROOM-1.step"
     (opacity 0.7500)    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

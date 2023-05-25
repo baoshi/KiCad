@@ -5,15 +5,15 @@
   (tags "TDFN NoLead")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.4) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 2d6ed0c7-c3c7-471d-8d14-1cdf7d26c5e7)
   )
   (fp_text value "TDFN-8-1EP_3x3x0.65P_EP2.3x1.5" (at 0 2.2) (layer "F.Fab") hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 06f62ed8-a693-4dcd-9864-6ced583b7162)
   )
   (fp_text user "${REFERENCE}" (at 0 0 180) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 1b09391d-c273-488b-ab00-2c296bbc77ac)
   )
   (fp_line (start -1.3 1.8) (end -1.8 1.8) (layer "F.SilkS") (width 0.12) (tstamp 3c1baf09-a0fa-4d5b-9e19-dad36989c504))
@@ -40,7 +40,7 @@
   (pad "7" smd roundrect (at -0.325 -1.475 90) (size 0.7 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 11b49d13-b047-4242-be65-9a9b1c80ec58))
   (pad "8" smd roundrect (at -0.975 -1.475 90) (size 0.7 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a27ad806-2f49-493b-a712-5cefb34fea4e))
   (pad "9" smd rect (at 0 0 90) (size 1.58 2.35) (layers "F.Cu" "F.Mask") (tstamp 02aa654f-e6a5-46d3-8ecc-d190b11be6ea))
-  (model "${KIUSR3DMOD}/Standard_IC.3dshapes/TDFN-8-1EP_3x3x0.65P_EP2.3x1.5.step"
+  (model "${KIUSR_3DMODEL_DIR}/Standard_IC.3dshapes/TDFN-8-1EP_3x3x0.65P_EP2.3x1.5.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

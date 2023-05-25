@@ -3,15 +3,15 @@
   (tedit 61E11FFF)
   (attr smd)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp c5a1761e-3391-4e74-90c9-947fd66e1fc6)
   )
   (fp_text value "HIR_DF17(2.0)-20DP-0.5V(57)" (at 0 0) (layer "F.Fab") hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp a1c7b1f5-f895-4192-9484-2357882c73e0)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 4fb2577d-2e1c-480c-9060-124510b35053)
   )
   (fp_line (start 2.722441 3.0734) (end 5.2324 3.0734) (layer "F.SilkS") (width 0.15) (tstamp 16ded395-a862-4198-b3af-ba8c7fb298bb))
@@ -54,7 +54,7 @@
   (pad "20" smd rect (at 2.250001 -2.6) (size 0.2794 1.1938) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6ca3c38c-4e71-4202-b6c1-1b25f04a27ae))
   (pad "MP" smd rect (at 4.499999 0) (size 1.397 2.2098) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37e4dc66-4492-4061-908d-7213940a2ec3))
   (pad "MP" smd rect (at -4.499999 0) (size 1.397 2.2098) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb03d859-dcc9-4533-b352-64830e0e5423))
-  (model "${KIUSR3DMOD}/Connector.3dshapes/HIR_DF17(2.0)-20DP-0.5V(57).wrl"
+  (model "${KIUSR_3DMODEL_DIR}/Connector.3dshapes/HIR_DF17(2.0)-20DP-0.5V(57).wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

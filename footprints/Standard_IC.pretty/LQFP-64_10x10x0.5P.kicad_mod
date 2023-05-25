@@ -3,15 +3,15 @@
   (tedit 6072F40C)
   (attr smd)
   (fp_text reference "REF**" (at 0 -7.2) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp a2d3135d-7c74-4dd3-b3c8-4065d042e920)
   )
   (fp_text value "LQFP-64_10x10x0.5P" (at 0 7.4) (layer "F.Fab") hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp a23324ba-edaf-4a8e-8268-cff724a376f0)
   )
   (fp_text user "${REFERENCE}" (at 0 -7.2) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 74569475-0943-4832-aa35-659b365fa411)
   )
   (fp_line (start -5.1 -5.1) (end -4.3 -5.1) (layer "F.SilkS") (width 0.15) (tstamp 366a5f9e-fdc3-4551-b95d-17fb6bba0833))
@@ -110,7 +110,7 @@
   (pad "62" smd roundrect (at -5.55 2.75 90) (size 0.28 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f17c4a9b-acd6-4fb4-89f2-7bb66e27ea68))
   (pad "63" smd roundrect (at -5.55 3.25 90) (size 0.28 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 852fabe3-a8b4-4357-9b4d-4c5dd3a0938b))
   (pad "64" smd roundrect (at -5.55 3.75 90) (size 0.28 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 927c571b-451e-4bb0-b8e6-cdc6b2d42c84))
-  (model "${KIUSR3DMOD}/Standard_IC.3dshapes/LQFP-64_10x10x0.5P.step"
+  (model "${KIUSR_3DMODEL_DIR}/Standard_IC.3dshapes/LQFP-64_10x10x0.5P.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

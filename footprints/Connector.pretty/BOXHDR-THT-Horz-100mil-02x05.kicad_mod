@@ -1,10 +1,10 @@
 (module BOXHDR-THT-Horz-100mil-02x05 (layer F.Cu) (tedit 606079EA)
   (descr "Box Header 100mil spacing 2x5 horizontal")
   (fp_text reference REF** (at -6.1 -6.215 90) (layer F.SilkS)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_text value HEADER (at 5.08 2.0955 180) (layer F.Fab) hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_line (start -5.6 -13.78) (end -5.6 1.35) (layer F.CrtYd) (width 0.05))
   (fp_line (start 15.76 -13.78) (end -5.6 -13.78) (layer F.CrtYd) (width 0.05))
@@ -51,7 +51,7 @@
   (pad 6 thru_hole circle (at 5.08 -2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 7.62 -2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 10.16 -2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KIUSR3DMOD}/Connector.3dshapes/BOXHDR-THT-Horz-100mil-02x05.wrl
+  (model ${KIUSR_3DMODEL_DIR}/Connector.3dshapes/BOXHDR-THT-Horz-100mil-02x05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

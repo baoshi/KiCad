@@ -3,11 +3,11 @@
   (tedit 0)
   (attr smd)
   (fp_text reference "REF**" (at 0 -4.9 unlocked) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 5ac3efcc-1743-4d1e-b6e3-9ba54895e6ac)
   )
   (fp_text value "XKB_U262-241N-4BV60" (at 0 0.7 unlocked) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 36ef898d-3c37-4865-9269-65793a18a9fc)
   )
   (fp_line (start -5 5.63) (end 5 5.63) (layer "Dwgs.User") (width 0.1) (tstamp 1c74f28e-14cc-4889-ab5b-1b7af7eed6dc))
@@ -49,7 +49,7 @@
   (pad "S2" thru_hole oval (at -4.49 3.1) (size 1 1.6) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp 8308434d-c5da-4119-9736-2e32630f5fd1))
   (pad "S3" thru_hole oval (at 4.49 3.1) (size 1 1.6) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp 72eca3e8-7aa6-4f10-80e8-1fbd7f96d251))
   (pad "S4" thru_hole oval (at 4.13 -1.29) (size 1 1.6) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp d3c6cd7c-49ce-4205-946c-5447523251f9))
-  (model "${KIUSR3DMOD}/Connector.3dshapes/XKB_U262-241N-4BV60.step"
+  (model "${KIUSR_3DMODEL_DIR}/Connector.3dshapes/XKB_U262-241N-4BV60.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

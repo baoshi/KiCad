@@ -1,10 +1,10 @@
 (module TSSOP-20_6.5x4.4x0.65P (layer F.Cu) (tedit 6072F388)
   (attr smd)
   (fp_text reference REF** (at 0 -4.191821) (layer F.SilkS)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_text value TSSOP-20 (at 0 4.4) (layer F.Fab) hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_circle (center -2.4 1.35) (end -1.9 1.35) (layer F.Fab) (width 0.1))
   (fp_line (start -3.3 -2.25) (end -3.3 2.25) (layer F.Fab) (width 0.1))
@@ -30,7 +30,7 @@
   (fp_line (start -3.2 -2) (end -3.2 -3.7) (layer F.CrtYd) (width 0.1))
   (fp_line (start 3.2 -3.7) (end 3.2 -2) (layer F.CrtYd) (width 0.1))
   (fp_text user %R (at 0 0) (layer F.Fab)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (pad 1 smd oval (at -2.925 2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd oval (at -2.275 2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
@@ -52,7 +52,7 @@
   (pad 18 smd oval (at -1.625 -2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd oval (at -2.275 -2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd oval (at -2.925 -2.85 180) (size 0.35 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KIUSR3DMOD}/Standard_IC.3dshapes/TSSOP-20_6.5x4.4x0.65P.wrl
+  (model ${KIUSR_3DMODEL_DIR}/Standard_IC.3dshapes/TSSOP-20_6.5x4.4x0.65P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

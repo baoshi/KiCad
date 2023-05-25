@@ -2,10 +2,10 @@
   (descr "Pin Header 100mil spacing SMT 1x2 horizontal")
   (attr smd)
   (fp_text reference REF** (at 5 -2) (layer F.SilkS)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_text value PINHDR-SMT-Horz-100mil-01x02 (at 0 -0.1 180) (layer F.Fab)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_line (start 3.65 3.79) (end 6.15 3.79) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.65 1.29) (end 3.65 3.79) (layer F.SilkS) (width 0.15))
@@ -23,7 +23,7 @@
   (fp_line (start 3.65 -1.25) (end 6.15 -1.25) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at 0 0) (size 3.2 1.02) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 2.54) (size 3.2 1.02) (layers F.Cu F.Paste F.Mask))
-  (model ${KIUSR3DMOD}/Connector.3dshapes/PINHDR-SMT-Horz-100mil-01x02.wrl
+  (model ${KIUSR_3DMODEL_DIR}/Connector.3dshapes/PINHDR-SMT-Horz-100mil-01x02.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

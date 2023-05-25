@@ -3,11 +3,11 @@
   (tedit 61E0E6BF)
   (attr smd)
   (fp_text reference "REF**" (at 0 -7) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp b06ce446-c27e-47df-a4e3-d10b64552c26)
   )
   (fp_text value "VFBGA-63_11x9x0.8P" (at 0 7.343978) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp c9a0dd18-d945-4bfe-8921-ced29a4068d2)
   )
   (fp_line (start -5 -6) (end 5 -6) (layer "F.SilkS") (width 0.15) (tstamp 0c30a4be-5679-499f-8c5b-5f3024f9d6cf))
@@ -91,7 +91,7 @@
   (pad "M2" smd circle (at -2.8 4.4) (size 0.42 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b994142f-02ac-4881-9587-6d3df53c96d2))
   (pad "M9" smd circle (at 2.8 4.4) (size 0.42 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f144a97d-c3f0-423f-b0a9-3f7dbc42478b))
   (pad "M10" smd circle (at 3.6 4.4) (size 0.42 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 71c77456-1405-42e3-95ed-69e629de0558))
-  (model "${KIUSR3DMOD}/Standard_IC.3dshapes/VFBGA-63_11x9x0.8P.wrl"
+  (model "${KIUSR_3DMODEL_DIR}/Standard_IC.3dshapes/VFBGA-63_11x9x0.8P.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

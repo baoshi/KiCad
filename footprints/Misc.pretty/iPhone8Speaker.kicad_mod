@@ -1,10 +1,10 @@
 (module iPhone8Speaker (layer F.Cu) (tedit 60C091BF)
   (attr virtual)
   (fp_text reference REF** (at -13.9 -11 90) (layer F.SilkS)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_text value Speaker (at -0.9 -11.6) (layer F.Fab) hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_line (start -4 0) (end -4 1.84) (layer Dwgs.User) (width 0.1))
   (fp_line (start 4 0) (end 4 1.84) (layer Dwgs.User) (width 0.1))
@@ -59,7 +59,7 @@
   (fp_circle (center 9.5 -3.3) (end 10.75 -3.3) (layer B.CrtYd) (width 0.05))
   (fp_circle (center -13.3 -3.8) (end -12.05 -3.8) (layer B.CrtYd) (width 0.05))
   (fp_text user %R (at -0.6 -13) (layer F.Fab)
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (fp_arc (start 8.8 -4.232) (end 8.8 -5.232) (angle -90) (layer F.Fab) (width 0.15))
   (fp_arc (start 10.2 -4.232) (end 11.2 -4.232) (angle -90) (layer F.Fab) (width 0.15))
@@ -90,7 +90,7 @@
   (pad "" np_thru_hole circle (at -13.3 -3.8) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask))
   (pad 1 smd rect (at 6.3 -22.7) (size 5 2.5) (layers F.Cu F.Mask))
   (pad 2 smd rect (at -7 -22.7) (size 5 2.5) (layers F.Cu F.Mask))
-  (model ${KIUSR3DMOD}/Misc.3dshapes/iPhone8Speaker.wrl
+  (model ${KIUSR_3DMODEL_DIR}/Misc.3dshapes/iPhone8Speaker.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

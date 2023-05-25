@@ -3,15 +3,15 @@
   (tedit 609896FD)
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.1) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 5a7d501e-f80e-4dea-827a-c9b04fe05e1d)
   )
   (fp_text value "R_0402" (at 0 1.3) (layer "F.Fab") hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 75c75b68-1296-49b3-8839-fb5db38d2af5)
   )
   (fp_text user "${REFERENCE}" (at 0 -0.9) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 856c6f2d-698e-4f2f-b84a-ec7b8a40f247)
   )
   (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer "F.SilkS") (width 0.15) (tstamp 6c5f7f0e-1289-43f2-aa96-7d8cc3c5b1e2))
@@ -26,7 +26,7 @@
   (fp_line (start 0.5 -0.25) (end 0.5 0.25) (layer "F.Fab") (width 0.1) (tstamp e43ebd2a-8038-4437-bc2c-df41af7badc2))
   (pad "1" smd rect (at -0.425 0) (size 0.6 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0833178c-fc50-4010-8440-e20ad84d0387))
   (pad "2" smd rect (at 0.425 0) (size 0.6 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d115b1f1-1143-4c58-af3a-53cecd289aee))
-  (model "${KIUSR3DMOD}/Resistor.3dshapes/R_0402.wrl"
+  (model "${KIUSR_3DMODEL_DIR}/Resistor.3dshapes/R_0402.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

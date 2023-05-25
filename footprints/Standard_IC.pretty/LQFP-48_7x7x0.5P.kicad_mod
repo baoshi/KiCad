@@ -4,15 +4,15 @@
   (tags "LQFP QFP 48")
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.8 180) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 9c8116ee-48e3-44f5-8ee3-469a40022d5d)
   )
   (fp_text value "LQFP-48_7x7x0.5P" (at 0 5.8 180) (layer "F.Fab") hide
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 29257fc9-47b9-4cdd-8ced-eb07e0959311)
   )
   (fp_text user "${REFERENCE}" (at 0 0 180) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 3a6920c5-1e21-4d4c-8468-1e7aa20bcb9e)
   )
   (fp_line (start 3.6 3.6) (end 3.6 3.2) (layer "F.SilkS") (width 0.15) (tstamp 24f7934a-012d-4ad1-bd05-1f5a0f972bd5))
@@ -99,7 +99,7 @@
   (pad "46" smd roundrect (at -4.1625 1.75 90) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d25d8ad3-9424-44cf-8b74-e7a8b1ba9d04))
   (pad "47" smd roundrect (at -4.1625 2.25 90) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 66b264a6-d307-4abc-8254-6670ca5d7447))
   (pad "48" smd roundrect (at -4.1625 2.75 90) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e873b697-d1c1-43ba-9a39-982249be63e0))
-  (model "${KIUSR3DMOD}/Standard_IC.3dshapes/LQFP-48_7x7x0.5P.step"
+  (model "${KIUSR_3DMODEL_DIR}/Standard_IC.3dshapes/LQFP-48_7x7x0.5P.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

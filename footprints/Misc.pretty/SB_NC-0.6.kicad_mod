@@ -4,7 +4,7 @@
   (tags "net tie solder jumper bridged")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -0.9) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp cb62c661-4cb1-450d-ae7f-b40d3141b097)
   )
   (fp_text value "SB_NC-0.6" (at 0 1.9) (layer "F.Fab") hide

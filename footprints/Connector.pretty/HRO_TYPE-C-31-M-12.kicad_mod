@@ -4,7 +4,7 @@
   (descr "HRO TYPE-C-31-M-12")
   (attr smd)
   (fp_text reference "REF**" (at 0 -9.2) (layer "F.SilkS")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 8a65df5e-ec08-483c-afca-b88724ed42af)
   )
   (fp_text value "HRO_TYPE-C-31-M-12" (at 0 0.9) (layer "F.Fab") hide
@@ -12,7 +12,7 @@
     (tstamp d0b7a114-3739-4879-b858-4db4d8fb9b8f)
   )
   (fp_text user "${REFERENCE}" (at 0 -9.2) (layer "F.Fab")
-    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
     (tstamp 280efeff-3fbf-41c9-8761-bfb42a8b675f)
   )
   (fp_line (start 5.1 0) (end 5.1 -8.6) (layer "F.SilkS") (width 0.15) (tstamp 29ea5a22-b0c8-455f-adfc-a1e4ae7ca3cd))
@@ -50,7 +50,7 @@
   (pad "S2" thru_hole oval (at -4.32 -6.78) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 07ffbaad-8e7b-438d-94db-f42b8695db20))
   (pad "S3" thru_hole oval (at -4.32 -2.6) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp e06620f1-6613-429a-ab9d-1435eff32a58))
   (pad "S4" thru_hole oval (at 4.32 -2.6) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 4a21d358-49d2-4752-862b-bf1c32cf9341))
-  (model "${KIUSR3DMOD}/Connector.3dshapes/HRO_TYPE-C-31-M-12.wrl"
+  (model "${KIUSR_3DMODEL_DIR}/Connector.3dshapes/HRO_TYPE-C-31-M-12.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
