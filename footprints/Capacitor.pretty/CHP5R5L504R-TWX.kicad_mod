@@ -1,0 +1,170 @@
+(footprint "CHP5R5L504R-TWX"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1 -5 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "adf3e87f-4437-4e16-9ef8-859fc1f5fe8e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CHP5R5L504R-TWX"
+		(at 8 -6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b3ed5361-7395-4b74-b605-3c69d291582d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d69bc33-601a-4699-8b94-8f0d7b5cfb1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9856d77-aff1-4974-89d8-644fef62567f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1 -2)
+		(end 1 -2)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b750e565-3d77-4dee-a671-e24ff9a1f0b9")
+	)
+	(fp_line
+		(start 0 -3)
+		(end 0 -1)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4595ccf8-94d2-4c96-84d2-2394bf49c6ca")
+	)
+	(fp_rect
+		(start 2 -12)
+		(end 18 2)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f30401dc-e72a-4f55-911f-f4c768639be9")
+	)
+	(fp_rect
+		(start -1 -12.5)
+		(end 18.5 2.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4aa89f26-31ef-4505-bbac-b8e24b5e70ec")
+	)
+	(fp_line
+		(start 1 -10)
+		(end 2 -10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0da87592-20f5-48c6-8f14-4b7c1f16e515")
+	)
+	(fp_line
+		(start 1 0)
+		(end 2 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6dc3a8ae-d140-4fc2-9ae7-ef11ab107ffa")
+	)
+	(fp_rect
+		(start 2 -11.5)
+		(end 18 1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "abc808c1-cccc-44c9-9985-29625984b553")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9 -3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "92179a58-887c-4036-bf55-6ec7931bf060")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -10)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "14e7a7e1-f158-4052-9974-72113204cf92")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f3027cbb-24cb-4921-ab8e-0c51a3fdafc3")
+	)
+	(embedded_fonts no)
+	(model "${KIUSR_3DMODEL_DIR}/Capacitor.3dshapes/CHP5R5L504R-TWX.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
